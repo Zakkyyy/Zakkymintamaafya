@@ -27,7 +27,7 @@ sendBtn.addEventListener('click', (e) => {
         <strong>Thank You!</strong>
         <br>
         <strong>Feedback: ${selectedRating}</strong>
-        <p>Yaudah Hayuk Jadian</p>
+        <p>Selain jawaban baik pasti dusta</p>
     `
 })
 
